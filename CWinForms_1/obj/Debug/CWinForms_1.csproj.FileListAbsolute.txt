@@ -2,9 +2,9 @@ C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\bin\Debug\CWinForms_1.e
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\bin\Debug\CWinForms_1.exe
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\bin\Debug\CWinForms_1.pdb
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.csproj.AssemblyReference.cache
-C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Form1.resources
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Properties.Resources.resources
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.csproj.GenerateResource.cache
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.csproj.CoreCompileInputs.cache
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.exe
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.pdb
+C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_HelloWorld.resources

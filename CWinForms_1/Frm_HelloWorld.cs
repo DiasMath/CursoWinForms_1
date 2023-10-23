@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CWinForms_1
 {
-    public partial class Form1 : Form
+    public partial class Frm_HelloWorld : Form
     {
-        public Form1()
+        public Frm_HelloWorld()
         {
             InitializeComponent();
         }
@@ -20,6 +20,16 @@ namespace CWinForms_1
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void Btn_Sair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Btn_ModificaLabel_Click(object sender, EventArgs e)
+        {
+            lbl_Titulo.Text = Txt_ConteudoLabel.Text;
         }
     }
 }

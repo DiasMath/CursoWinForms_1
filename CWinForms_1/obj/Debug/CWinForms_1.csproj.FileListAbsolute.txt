@@ -10,3 +10,5 @@ C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.p
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_HelloWorld.resources
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_DemonstracaoKey.resources
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_ValidaSenha.resources
+C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_Mascara.resources
+C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_ValidaCPF.resources

@@ -8,3 +8,5 @@ C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.c
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.exe
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.pdb
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_HelloWorld.resources
+C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_DemonstracaoKey.resources
+C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_ValidaSenha.resources

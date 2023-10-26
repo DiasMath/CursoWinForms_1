@@ -16,7 +16,7 @@ namespace CWinForms_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_HelloWorld());
+            Application.Run(new Frm_ValidaSenha());
         }
     }
 }

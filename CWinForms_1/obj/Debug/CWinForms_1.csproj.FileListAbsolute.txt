@@ -13,3 +13,4 @@ C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.F
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_Mascara.resources
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_ValidaCPF.resources
 C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_ValidaCPF2.resources
+C:\WindowsForms\Curso WinForms_1\CWinForms_1\CWinForms_1\obj\Debug\CWinForms_1.Frm_Principal.resources
